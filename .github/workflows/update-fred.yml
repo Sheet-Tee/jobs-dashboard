@@ -64,7 +64,6 @@ jobs:
               "api_key": API_KEY,
               "file_type": "json",
               "observation_start": cutoff,
-              "frequency": "m",
             })
             r.raise_for_status()
             data = r.json()
