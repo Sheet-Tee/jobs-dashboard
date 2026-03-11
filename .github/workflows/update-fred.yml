@@ -41,7 +41,7 @@ jobs:
             "u6":        "U6RATE",
             "lfpr":      "CIVPART",
             "primeAge":  "LNS12300060",
-       "wages":     "AHETPI",
+             "wages":     "AHETPI",
             "openings":  "JTSJOL",
             "quits":     "JTSQUR",
             "hires":     "JTSHIR",
